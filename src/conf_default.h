@@ -16,7 +16,6 @@
 
 #define TEMP_SENSOR_PIN D4
 #define RELAY_PIN D2
-#define TARGET_TEMPERATURE_RESTART_OFFSET 1
 
 #define TOPIC_CONFIG "fridgecontroller/config";
 #define TOPIC_STATUS_PUB "fridgecontroller/status";
